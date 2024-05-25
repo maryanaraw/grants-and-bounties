@@ -182,11 +182,10 @@ The Grants process generally looks as follows:
 
 Other important things to bear in mind:
 
-- Teams are asked to **finish a grant** before applying for a new one.
+- Teams are asked to **finish a grant before applying for a new one.**
 - In exceptional cases described in [TON Grants Rules,](https://www.notion.so/ton-org/TON-Grants-Rules-4548acab386a4fc7b086aba53333e917?pvs=4) the grant may be cancelled.
 - Teams commit to delivering each milestone **strictly according to the deadline** set in the grant proposal on Questbook, and the entire grant scope - in **no longer than 6 months** from the moment of approval.
 - Teams receive funds **upon the completion of each milestone**. No advanced payment is envisioned by this grant program.
-- Teams are asked to **finish a grant before applying for a new one.**
 - Apart from the grant, we are happy to offer grantees our **technical and marketing support** and connect with the relevant players in the ecosystem. Please refer to [this document](https://ton-org.notion.site/Welcome-to-TON-founder-ca6c2e3607fe4170a9fe984397e7bf5c?pvs=4) to learn more.
 - We do NOT usually award grants to projects that have been the object of a successful **token sale.**
 - We do NOT support projects that fail to offer a **real utility** to the end user. That said, to express our appreciation and support towards memecoins as a community phenomenon, we invite such projects to refer to [Memelandia,]((https://ton.org/en/memelandia)) a cultural hub for memecoins on TON.
